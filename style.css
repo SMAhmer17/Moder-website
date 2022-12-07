@@ -187,7 +187,7 @@ header{
 
 .featured-section{
     padding: 80px var(--padding-inline-section) 0 ;
-    background-image: url('asset 32.svg');
+    background-image: url('asset 32.svg'); 
     background-repeat: no-repeat;
     background-position: center;
 }
